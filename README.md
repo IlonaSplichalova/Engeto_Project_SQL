@@ -6,7 +6,7 @@ Ahoj Matěji/ Filipe,
 
 repozitář obsahuje tyto následující soubory:
 
-**Project_Assignment** - obsahuje zadání projektu
+**Project_Assignment** - obsahuje zadání projektu.
 
 **Research_Questions_And_Answers** - obsahuje výzkumné otázky a odpovědi k nim.
 
